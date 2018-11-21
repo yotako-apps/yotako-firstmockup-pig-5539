@@ -1,0 +1,2336 @@
+@media (max-width:768px) {
+  .style0 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 5px;
+    width: 375px;
+    height: 1126px;
+    flex-direction: column
+  }
+  .logincontainer0unsupported0 {
+    margin-left: 187px;
+    margin-top: 21px;
+    width: 15px;
+    height: 15px
+  }
+  .logincontainer0row1 {
+    display: flex;
+    margin-top: 19px;
+    width: 83px;
+    height: 15px;
+    align-items: stretch;
+    align-self: center
+  }
+  .logincontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 15px;
+    flex-direction: column
+  }
+  .style1 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 8px;
+    width: 69px;
+    height: 15px;
+    flex-shrink: 0
+  }
+  .logincontainer0row1unsupported3 {
+    margin-left: 53px;
+    width: 15px
+  }
+  .style3 {
+    margin-top: 219px;
+    width: 133px;
+    height: 133px;
+    align-self: center
+  }
+  .logincontainer0unsupported6 {
+    margin-top: 160px;
+    width: 32px;
+    height: 32px
+  }
+  .style2,
+  .style4 {
+    font-family: BalsamiqSans,serif;
+    align-self: center
+  }
+  .style4 {
+    color: #00000a;
+    height: 28px;
+    font-size: 1em;
+    margin-top: 149px
+  }
+  .style2 {
+    text-align: center;
+    font-size: .875em;
+    margin-top: 97px;
+    width: 367px
+  }
+  .logincontainer0unsupported4 {
+    display: flex;
+    margin-top: 88px;
+    width: 87px;
+    height: 85px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .logincontainer0unsupported4unsupported5 {
+    height: 77px
+  }
+  .style5 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 5px;
+    width: 375px;
+    height: 1126px;
+    flex-direction: column
+  }
+  .inappsignuppromptfacebookcontainer0unsupported0 {
+    margin-left: 187px;
+    margin-top: 21px;
+    width: 15px;
+    height: 15px
+  }
+  .inappsignuppromptfacebookcontainer0row1 {
+    display: flex;
+    margin-top: 19px;
+    width: 83px;
+    height: 15px;
+    align-items: stretch;
+    align-self: center
+  }
+  .inappsignuppromptfacebookcontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 15px;
+    flex-direction: column
+  }
+  .style6 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 8px;
+    width: 69px;
+    height: 15px;
+    flex-shrink: 0
+  }
+  .inappsignuppromptfacebookcontainer0row1unsupported3 {
+    margin-left: 53px;
+    width: 15px
+  }
+  .inappsignuppromptfacebookcontainer0unsupported6 {
+    margin-left: 140px;
+    margin-top: 298px;
+    width: 107px;
+    height: 107px
+  }
+  .style7 {
+    background-color: #eee;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 343px;
+    align-items: center;
+    align-self: stretch;
+    flex-direction: column
+  }
+  .style8,
+  .style9 {
+    font-family: BalsamiqSans,serif
+  }
+  .style8 {
+    font-weight: 700;
+    height: 31px;
+    font-size: 1.125em;
+    margin-top: 73px
+  }
+  .style9 {
+    text-align: center;
+    font-size: 1em;
+    margin-top: 7px;
+    width: 235px
+  }
+  .style10 {
+    background-color: #2b78e4;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 44px;
+    width: 330px;
+    height: 64px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .inappsignuppromptfacebookcontainer0container2button0unsupported7 {
+    margin-left: 23px;
+    width: 32px;
+    height: 32px
+  }
+  .style11,
+  .style12 {
+    font-family: BalsamiqSans,serif
+  }
+  .style11 {
+    text-align: center;
+    position: relative;
+    align-self: stretch;
+    font-size: 1.1875em;
+    height: 21px
+  }
+  .style12 {
+    font-size: 1.125em;
+    margin-top: 21px;
+    height: 31px
+  }
+  .inappsignuppromptfacebookcontainer0unsupported4 {
+    display: flex;
+    margin-top: 264px;
+    width: 87px;
+    height: 85px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .inappsignuppromptfacebookcontainer0unsupported4unsupported5 {
+    height: 77px
+  }
+  .style13 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 5px;
+    width: 375px;
+    height: 1126px;
+    flex-direction: column
+  }
+  .signupemailcontainer0unsupported0 {
+    margin-left: 187px;
+    margin-top: 21px;
+    width: 15px;
+    height: 15px
+  }
+  .signupemailcontainer0row1 {
+    display: flex;
+    margin-top: 19px;
+    width: 83px;
+    height: 15px;
+    align-items: stretch;
+    align-self: center
+  }
+  .signupemailcontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 15px;
+    flex-direction: column
+  }
+  .style14 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 8px;
+    width: 69px;
+    height: 15px;
+    flex-shrink: 0
+  }
+  .signupemailcontainer0row1unsupported3 {
+    margin-left: 53px;
+    width: 15px
+  }
+  .style15 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.375em;
+    margin-top: 125px;
+    height: 35px;
+    align-self: center
+  }
+  .style16 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin-top: 40px;
+    align-self: center
+  }
+  .style16,
+  .style18,
+  .style20 {
+    background-color: #fff;
+    font-family: BalsamiqSans,serif;
+    font-size: 1em;
+    text-indent: 13px;
+    width: 355px;
+    height: 36px
+  }
+  .style18 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    align-self: center;
+    margin-top: 19px
+  }
+  .style20 {
+    margin-top: 20px
+  }
+  .style20,
+  .style22,
+  .style24 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    align-self: center
+  }
+  .style22 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1em;
+    text-indent: 13px;
+    background-color: #fff;
+    margin-top: 19px;
+    width: 355px;
+    height: 36px
+  }
+  .style24 {
+    background-color: #a64d79;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 20px;
+    width: 356px;
+    height: 61px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style25,
+  .style28 {
+    text-align: center;
+    font-family: BalsamiqSans,serif
+  }
+  .style25 {
+    color: #fff;
+    height: 17px;
+    font-size: 1em
+  }
+  .style28 {
+    font-size: .875em;
+    margin-top: 5px;
+    width: 367px;
+    align-self: center
+  }
+  .style26 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 59px;
+    width: 356px;
+    height: 61px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style27 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1em;
+    height: 17px
+  }
+  .signupemailcontainer0unsupported4 {
+    display: flex;
+    margin-top: 299px;
+    width: 87px;
+    height: 85px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .signupemailcontainer0unsupported4unsupported5 {
+    height: 77px
+  }
+  .style29 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 5px;
+    width: 375px;
+    height: 1126px;
+    flex-direction: column
+  }
+  .signinemailcontainer0unsupported0 {
+    margin-left: 187px;
+    margin-top: 21px;
+    width: 15px;
+    height: 15px
+  }
+  .signinemailcontainer0row1 {
+    display: flex;
+    margin-top: 19px;
+    width: 83px;
+    height: 15px;
+    align-items: stretch;
+    align-self: center
+  }
+  .signinemailcontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 15px;
+    flex-direction: column
+  }
+  .style30 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 8px;
+    width: 69px;
+    height: 15px;
+    flex-shrink: 0
+  }
+  .signinemailcontainer0row1unsupported3 {
+    margin-left: 53px;
+    width: 15px
+  }
+  .style31 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.375em;
+    margin-top: 124px;
+    height: 35px;
+    align-self: center
+  }
+  .signinemailcontainer0unsupported6 {
+    margin-top: 701px;
+    width: 32px;
+    height: 32px
+  }
+  .signinemailcontainer0unsupported4 {
+    display: flex;
+    margin-top: 59px;
+    width: 87px;
+    height: 85px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .signinemailcontainer0unsupported4unsupported5 {
+    height: 77px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style32 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 5px;
+    width: 375px;
+    height: 1126px;
+    flex-direction: column
+  }
+  .inappsignupprompttwittercontainer0unsupported0 {
+    margin-left: 187px;
+    margin-top: 21px;
+    width: 15px;
+    height: 15px
+  }
+  .inappsignupprompttwittercontainer0row1 {
+    display: flex;
+    margin-top: 19px;
+    width: 83px;
+    height: 15px;
+    align-items: stretch;
+    align-self: center
+  }
+  .inappsignupprompttwittercontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 15px;
+    flex-direction: column
+  }
+  .style33 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 8px;
+    width: 69px;
+    height: 15px;
+    flex-shrink: 0
+  }
+  .inappsignupprompttwittercontainer0row1unsupported3 {
+    margin-left: 53px;
+    width: 15px
+  }
+  .inappsignupprompttwittercontainer0unsupported6 {
+    margin-left: 140px;
+    margin-top: 298px;
+    width: 107px;
+    height: 107px
+  }
+  .style34 {
+    background-color: #eee;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 343px;
+    align-items: center;
+    align-self: stretch;
+    flex-direction: column
+  }
+  .style35,
+  .style36 {
+    font-family: BalsamiqSans,serif
+  }
+  .style35 {
+    font-weight: 700;
+    height: 31px;
+    font-size: 1.125em;
+    margin-top: 73px
+  }
+  .style36 {
+    text-align: center;
+    font-size: 1em;
+    margin-top: 7px;
+    width: 235px
+  }
+  .style37 {
+    background-color: #2b78e4;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 44px;
+    width: 330px;
+    height: 64px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .inappsignupprompttwittercontainer0container2button0unsupported7 {
+    margin-left: 23px;
+    width: 32px;
+    height: 32px
+  }
+  .style38,
+  .style39 {
+    font-family: BalsamiqSans,serif
+  }
+  .style38 {
+    text-align: center;
+    position: relative;
+    align-self: stretch;
+    font-size: 1.1875em;
+    height: 21px
+  }
+  .style39 {
+    font-size: 1.125em;
+    margin-top: 21px;
+    height: 31px
+  }
+  .inappsignupprompttwittercontainer0unsupported4 {
+    display: flex;
+    margin-top: 264px;
+    width: 87px;
+    height: 85px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .inappsignupprompttwittercontainer0unsupported4unsupported5 {
+    height: 77px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .style0 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 10px;
+    width: 768px;
+    height: 2306px;
+    flex-direction: column
+  }
+  .logincontainer0unsupported0 {
+    margin-left: 383px;
+    margin-top: 43px;
+    width: 31px;
+    height: 31px
+  }
+  .logincontainer0row1 {
+    display: flex;
+    margin-top: 39px;
+    width: 170px;
+    height: 31px;
+    align-items: stretch;
+    align-self: center
+  }
+  .logincontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 31px;
+    flex-direction: column
+  }
+  .style1 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 16px;
+    width: 141px;
+    height: 31px;
+    flex-shrink: 0
+  }
+  .logincontainer0row1unsupported3 {
+    margin-left: 109px;
+    width: 31px
+  }
+  .style3 {
+    margin-top: 449px;
+    width: 272px;
+    height: 272px;
+    align-self: center
+  }
+  .logincontainer0unsupported6 {
+    margin-top: 328px;
+    width: 66px;
+    height: 66px
+  }
+  .style2,
+  .style4 {
+    font-family: BalsamiqSans,serif;
+    align-self: center
+  }
+  .style4 {
+    color: #00000a;
+    height: 57px;
+    font-size: 2.048em;
+    margin-top: 305px
+  }
+  .style2 {
+    text-align: center;
+    font-size: 1.792em;
+    margin-top: 199px;
+    width: 752px
+  }
+  .logincontainer0unsupported4 {
+    display: flex;
+    margin-top: 180px;
+    width: 178px;
+    height: 174px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .logincontainer0unsupported4unsupported5 {
+    height: 158px
+  }
+  .style5 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 10px;
+    width: 768px;
+    height: 2306px;
+    flex-direction: column
+  }
+  .inappsignuppromptfacebookcontainer0unsupported0 {
+    margin-left: 383px;
+    margin-top: 43px;
+    width: 31px;
+    height: 31px
+  }
+  .inappsignuppromptfacebookcontainer0row1 {
+    display: flex;
+    margin-top: 39px;
+    width: 170px;
+    height: 31px;
+    align-items: stretch;
+    align-self: center
+  }
+  .inappsignuppromptfacebookcontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 31px;
+    flex-direction: column
+  }
+  .style6 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 16px;
+    width: 141px;
+    height: 31px;
+    flex-shrink: 0
+  }
+  .inappsignuppromptfacebookcontainer0row1unsupported3 {
+    margin-left: 109px;
+    width: 31px
+  }
+  .inappsignuppromptfacebookcontainer0unsupported6 {
+    margin-left: 287px;
+    margin-top: 610px;
+    width: 219px;
+    height: 219px
+  }
+  .style7 {
+    background-color: #eee;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 702px;
+    align-items: center;
+    align-self: stretch;
+    flex-direction: column
+  }
+  .style8,
+  .style9 {
+    font-family: BalsamiqSans,serif
+  }
+  .style8 {
+    font-weight: 700;
+    height: 63px;
+    font-size: 2.3040000000000003em;
+    margin-top: 150px
+  }
+  .style9 {
+    text-align: center;
+    font-size: 2.048em;
+    margin-top: 14px;
+    width: 481px
+  }
+  .style10 {
+    background-color: #2b78e4;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 90px;
+    width: 676px;
+    height: 131px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .inappsignuppromptfacebookcontainer0container2button0unsupported7 {
+    margin-left: 47px;
+    width: 66px;
+    height: 66px
+  }
+  .style11,
+  .style12 {
+    font-family: BalsamiqSans,serif
+  }
+  .style11 {
+    text-align: center;
+    position: relative;
+    align-self: stretch;
+    font-size: 2.432em;
+    height: 43px
+  }
+  .style12 {
+    font-size: 2.3040000000000003em;
+    margin-top: 43px;
+    height: 63px
+  }
+  .inappsignuppromptfacebookcontainer0unsupported4 {
+    display: flex;
+    margin-top: 541px;
+    width: 178px;
+    height: 174px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .inappsignuppromptfacebookcontainer0unsupported4unsupported5 {
+    height: 158px
+  }
+  .style13 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 10px;
+    width: 768px;
+    height: 2306px;
+    flex-direction: column
+  }
+  .signupemailcontainer0unsupported0 {
+    margin-left: 383px;
+    margin-top: 43px;
+    width: 31px;
+    height: 31px
+  }
+  .signupemailcontainer0row1 {
+    display: flex;
+    margin-top: 39px;
+    width: 170px;
+    height: 31px;
+    align-items: stretch;
+    align-self: center
+  }
+  .signupemailcontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 31px;
+    flex-direction: column
+  }
+  .style14 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 16px;
+    width: 141px;
+    height: 31px;
+    flex-shrink: 0
+  }
+  .signupemailcontainer0row1unsupported3 {
+    margin-left: 109px;
+    width: 31px
+  }
+  .style15 {
+    font-family: BalsamiqSans,serif;
+    font-size: 2.816em;
+    margin-top: 256px;
+    height: 72px;
+    align-self: center
+  }
+  .style16 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin-top: 82px;
+    align-self: center
+  }
+  .style16,
+  .style18,
+  .style20 {
+    background-color: #fff;
+    font-family: BalsamiqSans,serif;
+    font-size: 2.048em;
+    text-indent: 27px;
+    width: 727px;
+    height: 74px
+  }
+  .style18 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    align-self: center;
+    margin-top: 39px
+  }
+  .style20 {
+    margin-top: 41px
+  }
+  .style20,
+  .style22,
+  .style24 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    align-self: center
+  }
+  .style22 {
+    font-family: BalsamiqSans,serif;
+    font-size: 2.048em;
+    text-indent: 27px;
+    background-color: #fff;
+    margin-top: 39px;
+    width: 727px;
+    height: 74px
+  }
+  .style24 {
+    background-color: #a64d79;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 41px;
+    width: 729px;
+    height: 125px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style25,
+  .style28 {
+    text-align: center;
+    font-family: BalsamiqSans,serif
+  }
+  .style25 {
+    color: #fff;
+    height: 35px;
+    font-size: 2.048em
+  }
+  .style28 {
+    font-size: 1.792em;
+    margin-top: 10px;
+    width: 752px;
+    align-self: center
+  }
+  .style26 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 121px;
+    width: 729px;
+    height: 125px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style27 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 2.048em;
+    height: 35px
+  }
+  .signupemailcontainer0unsupported4 {
+    display: flex;
+    margin-top: 612px;
+    width: 178px;
+    height: 174px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .signupemailcontainer0unsupported4unsupported5 {
+    height: 158px
+  }
+  .style29 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 10px;
+    width: 768px;
+    height: 2306px;
+    flex-direction: column
+  }
+  .signinemailcontainer0unsupported0 {
+    margin-left: 383px;
+    margin-top: 43px;
+    width: 31px;
+    height: 31px
+  }
+  .signinemailcontainer0row1 {
+    display: flex;
+    margin-top: 39px;
+    width: 170px;
+    height: 31px;
+    align-items: stretch;
+    align-self: center
+  }
+  .signinemailcontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 31px;
+    flex-direction: column
+  }
+  .style30 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 16px;
+    width: 141px;
+    height: 31px;
+    flex-shrink: 0
+  }
+  .signinemailcontainer0row1unsupported3 {
+    margin-left: 109px;
+    width: 31px
+  }
+  .style31 {
+    font-family: BalsamiqSans,serif;
+    font-size: 2.816em;
+    margin-top: 254px;
+    height: 72px;
+    align-self: center
+  }
+  .signinemailcontainer0unsupported6 {
+    margin-top: 1436px;
+    width: 66px;
+    height: 66px
+  }
+  .signinemailcontainer0unsupported4 {
+    display: flex;
+    margin-top: 121px;
+    width: 178px;
+    height: 174px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .signinemailcontainer0unsupported4unsupported5 {
+    height: 158px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style32 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 10px;
+    width: 768px;
+    height: 2306px;
+    flex-direction: column
+  }
+  .inappsignupprompttwittercontainer0unsupported0 {
+    margin-left: 383px;
+    margin-top: 43px;
+    width: 31px;
+    height: 31px
+  }
+  .inappsignupprompttwittercontainer0row1 {
+    display: flex;
+    margin-top: 39px;
+    width: 170px;
+    height: 31px;
+    align-items: stretch;
+    align-self: center
+  }
+  .inappsignupprompttwittercontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 31px;
+    flex-direction: column
+  }
+  .style33 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 16px;
+    width: 141px;
+    height: 31px;
+    flex-shrink: 0
+  }
+  .inappsignupprompttwittercontainer0row1unsupported3 {
+    margin-left: 109px;
+    width: 31px
+  }
+  .inappsignupprompttwittercontainer0unsupported6 {
+    margin-left: 287px;
+    margin-top: 610px;
+    width: 219px;
+    height: 219px
+  }
+  .style34 {
+    background-color: #eee;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 702px;
+    align-items: center;
+    align-self: stretch;
+    flex-direction: column
+  }
+  .style35,
+  .style36 {
+    font-family: BalsamiqSans,serif
+  }
+  .style35 {
+    font-weight: 700;
+    height: 63px;
+    font-size: 2.3040000000000003em;
+    margin-top: 150px
+  }
+  .style36 {
+    text-align: center;
+    font-size: 2.048em;
+    margin-top: 14px;
+    width: 481px
+  }
+  .style37 {
+    background-color: #2b78e4;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 90px;
+    width: 676px;
+    height: 131px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .inappsignupprompttwittercontainer0container2button0unsupported7 {
+    margin-left: 47px;
+    width: 66px;
+    height: 66px
+  }
+  .style38,
+  .style39 {
+    font-family: BalsamiqSans,serif
+  }
+  .style38 {
+    text-align: center;
+    position: relative;
+    align-self: stretch;
+    font-size: 2.432em;
+    height: 43px
+  }
+  .style39 {
+    font-size: 2.3040000000000003em;
+    margin-top: 43px;
+    height: 63px
+  }
+  .inappsignupprompttwittercontainer0unsupported4 {
+    display: flex;
+    margin-top: 541px;
+    width: 178px;
+    height: 174px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .inappsignupprompttwittercontainer0unsupported4unsupported5 {
+    height: 158px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .style0 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 12px;
+    width: 920px;
+    height: 2762px;
+    flex-direction: column
+  }
+  .logincontainer0unsupported0 {
+    margin-left: 459px;
+    margin-top: 52px;
+    width: 37px;
+    height: 37px
+  }
+  .logincontainer0row1 {
+    display: flex;
+    margin-top: 47px;
+    width: 204px;
+    height: 37px;
+    align-items: stretch;
+    align-self: center
+  }
+  .logincontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 37px;
+    flex-direction: column
+  }
+  .style1 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 20px;
+    width: 169px;
+    height: 37px;
+    flex-shrink: 0
+  }
+  .logincontainer0row1unsupported3 {
+    margin-left: 130px;
+    width: 37px
+  }
+  .style3 {
+    margin-top: 537px;
+    width: 326px;
+    height: 326px;
+    align-self: center
+  }
+  .logincontainer0unsupported6 {
+    margin-top: 393px;
+    width: 79px;
+    height: 79px
+  }
+  .style2,
+  .style4 {
+    font-family: BalsamiqSans,serif;
+    align-self: center
+  }
+  .style4 {
+    color: #00000a;
+    height: 69px;
+    font-size: 2.453333333333333em;
+    margin-top: 366px
+  }
+  .style2 {
+    text-align: center;
+    font-size: 2.1466666666666665em;
+    margin-top: 238px;
+    width: 900px
+  }
+  .logincontainer0unsupported4 {
+    display: flex;
+    margin-top: 216px;
+    width: 213px;
+    height: 209px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .logincontainer0unsupported4unsupported5 {
+    height: 189px
+  }
+  .style5 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 12px;
+    width: 920px;
+    height: 2762px;
+    flex-direction: column
+  }
+  .inappsignuppromptfacebookcontainer0unsupported0 {
+    margin-left: 459px;
+    margin-top: 52px;
+    width: 37px;
+    height: 37px
+  }
+  .inappsignuppromptfacebookcontainer0row1 {
+    display: flex;
+    margin-top: 47px;
+    width: 204px;
+    height: 37px;
+    align-items: stretch;
+    align-self: center
+  }
+  .inappsignuppromptfacebookcontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 37px;
+    flex-direction: column
+  }
+  .style6 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 20px;
+    width: 169px;
+    height: 37px;
+    flex-shrink: 0
+  }
+  .inappsignuppromptfacebookcontainer0row1unsupported3 {
+    margin-left: 130px;
+    width: 37px
+  }
+  .inappsignuppromptfacebookcontainer0unsupported6 {
+    margin-left: 343px;
+    margin-top: 731px;
+    width: 263px;
+    height: 263px
+  }
+  .style7 {
+    background-color: #eee;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 841px;
+    align-items: center;
+    align-self: stretch;
+    flex-direction: column
+  }
+  .style8,
+  .style9 {
+    font-family: BalsamiqSans,serif
+  }
+  .style8 {
+    font-weight: 700;
+    height: 76px;
+    font-size: 2.76em;
+    margin-top: 179px
+  }
+  .style9 {
+    text-align: center;
+    font-size: 2.453333333333333em;
+    margin-top: 17px;
+    width: 577px
+  }
+  .style10 {
+    background-color: #2b78e4;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 108px;
+    width: 810px;
+    height: 157px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .inappsignuppromptfacebookcontainer0container2button0unsupported7 {
+    margin-left: 56px;
+    width: 79px;
+    height: 79px
+  }
+  .style11,
+  .style12 {
+    font-family: BalsamiqSans,serif
+  }
+  .style11 {
+    text-align: center;
+    position: relative;
+    align-self: stretch;
+    font-size: 2.913333333333333em;
+    height: 52px
+  }
+  .style12 {
+    font-size: 2.76em;
+    margin-top: 52px;
+    height: 76px
+  }
+  .inappsignuppromptfacebookcontainer0unsupported4 {
+    display: flex;
+    margin-top: 648px;
+    width: 213px;
+    height: 209px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .inappsignuppromptfacebookcontainer0unsupported4unsupported5 {
+    height: 189px
+  }
+  .style13 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 12px;
+    width: 920px;
+    height: 2762px;
+    flex-direction: column
+  }
+  .signupemailcontainer0unsupported0 {
+    margin-left: 459px;
+    margin-top: 52px;
+    width: 37px;
+    height: 37px
+  }
+  .signupemailcontainer0row1 {
+    display: flex;
+    margin-top: 47px;
+    width: 204px;
+    height: 37px;
+    align-items: stretch;
+    align-self: center
+  }
+  .signupemailcontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 37px;
+    flex-direction: column
+  }
+  .style14 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 20px;
+    width: 169px;
+    height: 37px;
+    flex-shrink: 0
+  }
+  .signupemailcontainer0row1unsupported3 {
+    margin-left: 130px;
+    width: 37px
+  }
+  .style15 {
+    font-family: BalsamiqSans,serif;
+    font-size: 3.373333333333333em;
+    margin-top: 307px;
+    height: 86px;
+    align-self: center
+  }
+  .style16 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin-top: 98px;
+    align-self: center
+  }
+  .style16,
+  .style18,
+  .style20 {
+    background-color: #fff;
+    font-family: BalsamiqSans,serif;
+    font-size: 2.453333333333333em;
+    text-indent: 32px;
+    width: 871px;
+    height: 88px
+  }
+  .style18 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    align-self: center;
+    margin-top: 47px
+  }
+  .style20 {
+    margin-top: 49px
+  }
+  .style20,
+  .style22,
+  .style24 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    align-self: center
+  }
+  .style22 {
+    font-family: BalsamiqSans,serif;
+    font-size: 2.453333333333333em;
+    text-indent: 32px;
+    background-color: #fff;
+    margin-top: 47px;
+    width: 871px;
+    height: 88px
+  }
+  .style24 {
+    background-color: #a64d79;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 49px;
+    width: 873px;
+    height: 150px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style25,
+  .style28 {
+    text-align: center;
+    font-family: BalsamiqSans,serif
+  }
+  .style25 {
+    color: #fff;
+    height: 42px;
+    font-size: 2.453333333333333em
+  }
+  .style28 {
+    font-size: 2.1466666666666665em;
+    margin-top: 12px;
+    width: 900px;
+    align-self: center
+  }
+  .style26 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 145px;
+    width: 873px;
+    height: 150px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style27 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 2.453333333333333em;
+    height: 42px
+  }
+  .signupemailcontainer0unsupported4 {
+    display: flex;
+    margin-top: 734px;
+    width: 213px;
+    height: 209px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .signupemailcontainer0unsupported4unsupported5 {
+    height: 189px
+  }
+  .style29 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 12px;
+    width: 920px;
+    height: 2762px;
+    flex-direction: column
+  }
+  .signinemailcontainer0unsupported0 {
+    margin-left: 459px;
+    margin-top: 52px;
+    width: 37px;
+    height: 37px
+  }
+  .signinemailcontainer0row1 {
+    display: flex;
+    margin-top: 47px;
+    width: 204px;
+    height: 37px;
+    align-items: stretch;
+    align-self: center
+  }
+  .signinemailcontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 37px;
+    flex-direction: column
+  }
+  .style30 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 20px;
+    width: 169px;
+    height: 37px;
+    flex-shrink: 0
+  }
+  .signinemailcontainer0row1unsupported3 {
+    margin-left: 130px;
+    width: 37px
+  }
+  .style31 {
+    font-family: BalsamiqSans,serif;
+    font-size: 3.373333333333333em;
+    margin-top: 304px;
+    height: 86px;
+    align-self: center
+  }
+  .signinemailcontainer0unsupported6 {
+    margin-top: 1720px;
+    width: 79px;
+    height: 79px
+  }
+  .signinemailcontainer0unsupported4 {
+    display: flex;
+    margin-top: 145px;
+    width: 213px;
+    height: 209px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .signinemailcontainer0unsupported4unsupported5 {
+    height: 189px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style32 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 12px;
+    width: 920px;
+    height: 2762px;
+    flex-direction: column
+  }
+  .inappsignupprompttwittercontainer0unsupported0 {
+    margin-left: 459px;
+    margin-top: 52px;
+    width: 37px;
+    height: 37px
+  }
+  .inappsignupprompttwittercontainer0row1 {
+    display: flex;
+    margin-top: 47px;
+    width: 204px;
+    height: 37px;
+    align-items: stretch;
+    align-self: center
+  }
+  .inappsignupprompttwittercontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 37px;
+    flex-direction: column
+  }
+  .style33 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 20px;
+    width: 169px;
+    height: 37px;
+    flex-shrink: 0
+  }
+  .inappsignupprompttwittercontainer0row1unsupported3 {
+    margin-left: 130px;
+    width: 37px
+  }
+  .inappsignupprompttwittercontainer0unsupported6 {
+    margin-left: 343px;
+    margin-top: 731px;
+    width: 263px;
+    height: 263px
+  }
+  .style34 {
+    background-color: #eee;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 841px;
+    align-items: center;
+    align-self: stretch;
+    flex-direction: column
+  }
+  .style35,
+  .style36 {
+    font-family: BalsamiqSans,serif
+  }
+  .style35 {
+    font-weight: 700;
+    height: 76px;
+    font-size: 2.76em;
+    margin-top: 179px
+  }
+  .style36 {
+    text-align: center;
+    font-size: 2.453333333333333em;
+    margin-top: 17px;
+    width: 577px
+  }
+  .style37 {
+    background-color: #2b78e4;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 108px;
+    width: 810px;
+    height: 157px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .inappsignupprompttwittercontainer0container2button0unsupported7 {
+    margin-left: 56px;
+    width: 79px;
+    height: 79px
+  }
+  .style38,
+  .style39 {
+    font-family: BalsamiqSans,serif
+  }
+  .style38 {
+    text-align: center;
+    position: relative;
+    align-self: stretch;
+    font-size: 2.913333333333333em;
+    height: 52px
+  }
+  .style39 {
+    font-size: 2.76em;
+    margin-top: 52px;
+    height: 76px
+  }
+  .inappsignupprompttwittercontainer0unsupported4 {
+    display: flex;
+    margin-top: 648px;
+    width: 213px;
+    height: 209px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .inappsignupprompttwittercontainer0unsupported4unsupported5 {
+    height: 189px
+  }
+}
+@media (min-width:1200px) {
+  .style0 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 16px;
+    width: 1200px;
+    height: 3603px;
+    flex-direction: column
+  }
+  .logincontainer0unsupported0 {
+    margin-left: 598px;
+    margin-top: 67px;
+    width: 48px;
+    height: 48px
+  }
+  .logincontainer0row1 {
+    display: flex;
+    margin-top: 61px;
+    width: 266px;
+    height: 48px;
+    align-items: stretch;
+    align-self: center
+  }
+  .logincontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 48px;
+    flex-direction: column
+  }
+  .style1 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 26px;
+    width: 221px;
+    height: 48px;
+    flex-shrink: 0
+  }
+  .logincontainer0row1unsupported3 {
+    margin-left: 170px;
+    width: 48px
+  }
+  .style3 {
+    margin-top: 701px;
+    width: 426px;
+    height: 426px;
+    align-self: center
+  }
+  .logincontainer0unsupported6 {
+    margin-top: 512px;
+    width: 102px;
+    height: 102px
+  }
+  .style2,
+  .style4 {
+    font-family: BalsamiqSans,serif;
+    align-self: center
+  }
+  .style4 {
+    color: #00000a;
+    height: 90px;
+    font-size: 3.2em;
+    margin-top: 477px
+  }
+  .style2 {
+    text-align: center;
+    font-size: 2.8000000000000003em;
+    margin-top: 310px;
+    width: 1174px
+  }
+  .logincontainer0unsupported4 {
+    display: flex;
+    margin-top: 282px;
+    width: 278px;
+    height: 272px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .logincontainer0unsupported4unsupported5 {
+    height: 246px
+  }
+  .style5 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 16px;
+    width: 1200px;
+    height: 3603px;
+    flex-direction: column
+  }
+  .inappsignuppromptfacebookcontainer0unsupported0 {
+    margin-left: 598px;
+    margin-top: 67px;
+    width: 48px;
+    height: 48px
+  }
+  .inappsignuppromptfacebookcontainer0row1 {
+    display: flex;
+    margin-top: 61px;
+    width: 266px;
+    height: 48px;
+    align-items: stretch;
+    align-self: center
+  }
+  .inappsignuppromptfacebookcontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 48px;
+    flex-direction: column
+  }
+  .style6 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 26px;
+    width: 221px;
+    height: 48px;
+    flex-shrink: 0
+  }
+  .inappsignuppromptfacebookcontainer0row1unsupported3 {
+    margin-left: 170px;
+    width: 48px
+  }
+  .inappsignuppromptfacebookcontainer0unsupported6 {
+    margin-left: 448px;
+    margin-top: 954px;
+    width: 342px;
+    height: 342px
+  }
+  .style7 {
+    background-color: #eee;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 1098px;
+    align-items: center;
+    align-self: stretch;
+    flex-direction: column
+  }
+  .style8,
+  .style9 {
+    font-family: BalsamiqSans,serif
+  }
+  .style8 {
+    font-weight: 700;
+    height: 99px;
+    font-size: 3.6em;
+    margin-top: 234px
+  }
+  .style9 {
+    text-align: center;
+    font-size: 3.2em;
+    margin-top: 22px;
+    width: 752px
+  }
+  .style10 {
+    background-color: #2b78e4;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 141px;
+    width: 1056px;
+    height: 205px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .inappsignuppromptfacebookcontainer0container2button0unsupported7 {
+    margin-left: 74px;
+    width: 102px;
+    height: 102px
+  }
+  .style11,
+  .style12 {
+    font-family: BalsamiqSans,serif
+  }
+  .style11 {
+    text-align: center;
+    position: relative;
+    align-self: stretch;
+    font-size: 3.8000000000000003em;
+    height: 67px
+  }
+  .style12 {
+    font-size: 3.6em;
+    margin-top: 67px;
+    height: 99px
+  }
+  .inappsignuppromptfacebookcontainer0unsupported4 {
+    display: flex;
+    margin-top: 845px;
+    width: 278px;
+    height: 272px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .inappsignuppromptfacebookcontainer0unsupported4unsupported5 {
+    height: 246px
+  }
+  .style13 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 16px;
+    width: 1200px;
+    height: 3603px;
+    flex-direction: column
+  }
+  .signupemailcontainer0unsupported0 {
+    margin-left: 598px;
+    margin-top: 67px;
+    width: 48px;
+    height: 48px
+  }
+  .signupemailcontainer0row1 {
+    display: flex;
+    margin-top: 61px;
+    width: 266px;
+    height: 48px;
+    align-items: stretch;
+    align-self: center
+  }
+  .signupemailcontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 48px;
+    flex-direction: column
+  }
+  .style14 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 26px;
+    width: 221px;
+    height: 48px;
+    flex-shrink: 0
+  }
+  .signupemailcontainer0row1unsupported3 {
+    margin-left: 170px;
+    width: 48px
+  }
+  .style15 {
+    font-family: BalsamiqSans,serif;
+    font-size: 4.4em;
+    margin-top: 400px;
+    height: 112px;
+    align-self: center
+  }
+  .style16 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin-top: 128px;
+    align-self: center
+  }
+  .style16,
+  .style18,
+  .style20 {
+    background-color: #fff;
+    font-family: BalsamiqSans,serif;
+    font-size: 3.2em;
+    text-indent: 42px;
+    width: 1136px;
+    height: 115px
+  }
+  .style18 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    align-self: center;
+    margin-top: 61px
+  }
+  .style20 {
+    margin-top: 64px
+  }
+  .style20,
+  .style22,
+  .style24 {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    align-self: center
+  }
+  .style22 {
+    font-family: BalsamiqSans,serif;
+    font-size: 3.2em;
+    text-indent: 42px;
+    background-color: #fff;
+    margin-top: 61px;
+    width: 1136px;
+    height: 115px
+  }
+  .style24 {
+    background-color: #a64d79;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 64px;
+    width: 1139px;
+    height: 195px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style25,
+  .style28 {
+    text-align: center;
+    font-family: BalsamiqSans,serif
+  }
+  .style25 {
+    color: #fff;
+    height: 54px;
+    font-size: 3.2em
+  }
+  .style28 {
+    font-size: 2.8000000000000003em;
+    margin-top: 16px;
+    width: 1174px;
+    align-self: center
+  }
+  .style26 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 189px;
+    width: 1139px;
+    height: 195px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style27 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 3.2em;
+    height: 54px
+  }
+  .signupemailcontainer0unsupported4 {
+    display: flex;
+    margin-top: 957px;
+    width: 278px;
+    height: 272px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .signupemailcontainer0unsupported4unsupported5 {
+    height: 246px
+  }
+  .style29 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 16px;
+    width: 1200px;
+    height: 3603px;
+    flex-direction: column
+  }
+  .signinemailcontainer0unsupported0 {
+    margin-left: 598px;
+    margin-top: 67px;
+    width: 48px;
+    height: 48px
+  }
+  .signinemailcontainer0row1 {
+    display: flex;
+    margin-top: 61px;
+    width: 266px;
+    height: 48px;
+    align-items: stretch;
+    align-self: center
+  }
+  .signinemailcontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 48px;
+    flex-direction: column
+  }
+  .style30 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 26px;
+    width: 221px;
+    height: 48px;
+    flex-shrink: 0
+  }
+  .signinemailcontainer0row1unsupported3 {
+    margin-left: 170px;
+    width: 48px
+  }
+  .style31 {
+    font-family: BalsamiqSans,serif;
+    font-size: 4.4em;
+    margin-top: 397px;
+    height: 112px;
+    align-self: center
+  }
+  .signinemailcontainer0unsupported6 {
+    margin-top: 2243px;
+    width: 102px;
+    height: 102px
+  }
+  .signinemailcontainer0unsupported4 {
+    display: flex;
+    margin-top: 189px;
+    width: 278px;
+    height: 272px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .signinemailcontainer0unsupported4unsupported5 {
+    height: 246px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style32 {
+    background-color: #fff;
+    display: flex;
+    margin-left: 0;
+    margin-top: 16px;
+    width: 1200px;
+    height: 3603px;
+    flex-direction: column
+  }
+  .inappsignupprompttwittercontainer0unsupported0 {
+    margin-left: 598px;
+    margin-top: 67px;
+    width: 48px;
+    height: 48px
+  }
+  .inappsignupprompttwittercontainer0row1 {
+    display: flex;
+    margin-top: 61px;
+    width: 266px;
+    height: 48px;
+    align-items: stretch;
+    align-self: center
+  }
+  .inappsignupprompttwittercontainer0row1unsupported1 {
+    position: relative;
+    display: flex;
+    margin-left: 0;
+    width: 48px;
+    flex-direction: column
+  }
+  .style33 {
+    background-color: #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    position: relative;
+    margin-left: 26px;
+    width: 221px;
+    height: 48px;
+    flex-shrink: 0
+  }
+  .inappsignupprompttwittercontainer0row1unsupported3 {
+    margin-left: 170px;
+    width: 48px
+  }
+  .inappsignupprompttwittercontainer0unsupported6 {
+    margin-left: 448px;
+    margin-top: 954px;
+    width: 342px;
+    height: 342px
+  }
+  .style34 {
+    background-color: #eee;
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    display: flex;
+    margin-top: 0;
+    width: 100%;
+    height: 1098px;
+    align-items: center;
+    align-self: stretch;
+    flex-direction: column
+  }
+  .style35,
+  .style36 {
+    font-family: BalsamiqSans,serif
+  }
+  .style35 {
+    font-weight: 700;
+    height: 99px;
+    font-size: 3.6em;
+    margin-top: 234px
+  }
+  .style36 {
+    text-align: center;
+    font-size: 3.2em;
+    margin-top: 22px;
+    width: 752px
+  }
+  .style37 {
+    background-color: #2b78e4;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 7px 7px 0 0 #000;
+    display: flex;
+    margin-top: 141px;
+    width: 1056px;
+    height: 205px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .inappsignupprompttwittercontainer0container2button0unsupported7 {
+    margin-left: 74px;
+    width: 102px;
+    height: 102px
+  }
+  .style38,
+  .style39 {
+    font-family: BalsamiqSans,serif
+  }
+  .style38 {
+    text-align: center;
+    position: relative;
+    align-self: stretch;
+    font-size: 3.8000000000000003em;
+    height: 67px
+  }
+  .style39 {
+    font-size: 3.6em;
+    margin-top: 67px;
+    height: 99px
+  }
+  .inappsignupprompttwittercontainer0unsupported4 {
+    display: flex;
+    margin-top: 845px;
+    width: 278px;
+    height: 272px;
+    align-items: stretch;
+    align-self: center;
+    flex-direction: column
+  }
+  .inappsignupprompttwittercontainer0unsupported4unsupported5 {
+    height: 246px
+  }
+}
